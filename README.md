@@ -21,7 +21,7 @@ Configure and verify router LAN/WAN interfaces in Cisco Packet Tracer and test e
 <br>
 
 ## Network Topology Diagram
-(Insert your Packet Tracer screenshot showing R1—S1—PC1/PC2 and R2—S2—PC3/PC4, plus R1–R2 Serial link S0/0/0.)<br>
+<img width="866" height="449" alt="image" src="https://github.com/user-attachments/assets/9a5a14b9-b1ba-4776-ba91-8d5bf8a7e624" />
 <br>
 Addressing Table (from activity)<br>
 Device	Interface	IP Address	Subnet Mask	Default Gateway<br>
