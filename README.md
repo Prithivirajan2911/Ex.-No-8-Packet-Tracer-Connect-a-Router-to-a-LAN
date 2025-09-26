@@ -1,4 +1,7 @@
 # Ex. No: 8   Packet Tracer: Connect a Router to a LAN
+## Name: PRITHIVIRAJAN V
+## Reg no: 212223100042
+
 # Date: 26-09-2025
 <br>
 
@@ -122,38 +125,38 @@ o	You should also be able to ping all active router interfaces from the PCs. (Sw
 
 #### R1 - Interface Brief
 
-<img width="877" height="889" alt="Screenshot 2025-09-26 085156" src="https://github.com/user-attachments/assets/4f9d104f-560f-4773-bdf5-6043f6ce4d90" />
+<img width="743" height="190" alt="image" src="https://github.com/user-attachments/assets/f6f072fb-0653-488a-a93b-1f8ed95b0545" />
 
 #### R2 - Interface Brief
 
-<img width="877" height="889" alt="Screenshot 2025-09-26 085335" src="https://github.com/user-attachments/assets/46dbd980-4eb6-4e8d-b32f-0eeb536fa3f3" />
+<img width="731" height="136" alt="image" src="https://github.com/user-attachments/assets/f988f7c9-6eec-4779-b78a-12f05b94f262" />
 
 ### •	show ip route on R1 and R2<br>
 
 #### R1 - IP Route
 
-<img width="877" height="889" alt="Screenshot 2025-09-26 085441" src="https://github.com/user-attachments/assets/736eca46-5120-4e1d-9f81-35064230f969" />
+<img width="778" height="377" alt="image" src="https://github.com/user-attachments/assets/a97417f7-bc96-4d0e-8aed-99ec3298c8be" />
 
 #### R2 - IP Route
 
-<img width="877" height="889" alt="Screenshot 2025-09-26 085504" src="https://github.com/user-attachments/assets/6a417fd9-1556-46e1-9dc2-659f570796d7" />
+<img width="791" height="340" alt="image" src="https://github.com/user-attachments/assets/bcbcb68e-90ec-4689-b466-c56994f8603e" />
 
 
 ### •	Successful ping PC2 → PC4 and R2 → PC2<br>
 #### PC2 → PC4(Ping)
-<img width="877" height="889" alt="Screenshot 2025-09-26 085603" src="https://github.com/user-attachments/assets/2ca75c27-a6cb-400f-961e-84ae6e003006" />
+<img width="484" height="244" alt="image" src="https://github.com/user-attachments/assets/2a0cbd6a-0deb-4d44-80ff-f4b727ac4231" />
 
 #### R2 → PC2(Ping)
-<img width="877" height="889" alt="Screenshot 2025-09-26 085726" src="https://github.com/user-attachments/assets/7243c291-20bb-4881-ba3d-5efd55a0a278" />
+<img width="579" height="148" alt="image" src="https://github.com/user-attachments/assets/80320238-2995-448f-80f0-aeb17f4f2e23" />
 
 ### •	Interface up messages after no shutdown on each link <br>
 #### R1 - Interface Up Status
 
-<img width="877" height="483" alt="Screenshot 2025-09-26 085917" src="https://github.com/user-attachments/assets/22586493-4069-454b-bd44-410c048259f6" />
+<img width="784" height="537" alt="image" src="https://github.com/user-attachments/assets/e0d446e3-a927-4dea-8f60-7e3643bda94f" />
 
 #### R2 - Interface Up Status
 
-<img width="877" height="509" alt="Screenshot 2025-09-26 090021" src="https://github.com/user-attachments/assets/1c5d96d0-d6a8-40c3-8602-a6b8cb586e29" />
+<img width="760" height="458" alt="image" src="https://github.com/user-attachments/assets/c4c22c47-0d1a-4545-828a-a5b8ba687478" />
 
 
 
